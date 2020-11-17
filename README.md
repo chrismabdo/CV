@@ -1,15 +1,21 @@
 ## Your Name
 A 2020 University graduate now fully imersed in the world of software development. Over the past three years I have
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. The tech industry excites me not only for the breathtaking technologies that play such a large role in our lives, but for the people behind them, the culture that comes with a life in tech and the fundamental ethos of collaboration and passion that have driven the industry to where it is today.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Fizzbuzz**            | A program written with a focus on designing and constructing a set of basic tests from scratch. Achieved using a comibination of Pair programing and TDD. | Ruby |
+| **Fizzbuzz**            | A simple program written with a focus on designing and constructing a set of basic tests from scratch. Achieved using a comibination of pair programing and TDD. | Ruby |
 | **Student Directory** | A directory able to store and load information through user input via an interactive menu. | Ruby              |
 
 ## Experience
+
+**MG Vintage** (December 2018 - June 2020)  
+Head of Supplier Cordination
+
+- Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
+- Oversaw communication with suppliers both domestically and overseas. This venture provided me with experience working with a start-up consumer platform, negotiating wholesale prices, logistics and a strategic insight into UX, and handling payments over a variety of software platforms.
 
 **Freepoint Commodities** (August 2019)  
 Intern
@@ -18,15 +24,12 @@ Intern
 - Gained experience in learning the basics of algorithmic trading by shadowing the algorithms trading desk aimed at developing trading strategies across oil, natural gas and metal markets.
 - Worked in back office processing areas. Tasked with calculations and back testing the payment flow using the systems CXL and EIPP from trade verification to payment release.
 
-**MG Vintage** (December 2018 - June 2020)  
-Head of Supplier Cordination
-
-- Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
-- Oversaw communication with suppliers both domestically and overseas. This venture provided me with experience working with a start-up consumer platform, negotiating wholesale prices, logistics and a strategic insight into UX, and handling payments over a variety of software platforms.
-
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Leadership
+
+- The ability to act as a responsive focal point for the delegation of roles and tasks, as well as for outreach and communication.
+- Bank of America Merril Lynch Spring Insight Week: My team were tasked with researching and presenting the development of the Fintech sector over the past five years. Due to my interest in the industry, I put myself forward to lead the team. I delegated roles based on our individual strengths into analysis and creative teams. The result of this enabled us to give a highly informative presentation on the growth of the industry based on captivating research and a well-designed project.
 
 #### Collaboration
 
@@ -36,12 +39,8 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Attention to Detail
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Desgining and implementing a meticulous process for a particular task upon which they are executed. Following this process allows me to build greater consistency throughout a project and leaves less room for unforseen errors.
+- Freepoint Commodities: I spent three weeks in back-end operations, using logging software such as CXL and EIPP to verify and backcheck trades on global markets. By following a process throughout the series of tasks, I was able to ensure confidence in my procedures before sending trades off for payment and delivery. Subsequently, my responsibilities grew to the construction of company wide dily statistic sheets, displaying the daily net value of overall trades on each market.
 
 ## Education
 
