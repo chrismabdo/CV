@@ -1,6 +1,6 @@
 ## Your Name
-A 2020 University graduate now fully imersed in the world of software development. Over the past three years I have
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. The tech industry excites me not only for the breathtaking technologies that play such a large role in our lives, but for the people behind them, the culture that comes with a life in tech and the fundamental ethos of collaboration and passion that have driven the industry to where it is today.
+A 2020 University graduate now fully imersed in the world of software development through a 12-week bootcamp at Makers Academy. 
+. Then a sentence about what you've achieved. The tech industry excites me not only for the trailblazing technologies that play such a key role in our lives, but for the people behind them, the culture that comes with it, and the fundamental ethos of collaboration and passion that have driven the industry to where it is today.
 
 ## Projects
 
@@ -41,6 +41,10 @@ Intern
 
 - Desgining and implementing a meticulous process for a particular task upon which they are executed. Following this process allows me to build greater consistency throughout a project and leaves less room for unforseen errors.
 - Freepoint Commodities: I spent three weeks in back-end operations, using logging software such as CXL and EIPP to verify and backcheck trades on global markets. By following a process throughout the series of tasks, I was able to ensure confidence in my procedures before sending trades off for payment and delivery. Subsequently, my responsibilities grew to the construction of company wide dily statistic sheets, displaying the daily net value of overall trades on each market.
+
+#### Perseverance
+
+- Freddie's Flowers Salesman: Failing to sell any units in my first week as a door-to-door salesman, I chose to carefully anaylse my performance with the help of feedback and support from my team. This led to me picking out two key areas of improvement: resilience and confidence. Consequently, took it upon myself to 'mock pitch' to members of my team until I felt that these targets had been met. Although the effects were not felt immediately, 6 weeks later I rewarded by management for being the top salesman in my team over a three week period.
 
 ## Education
 
