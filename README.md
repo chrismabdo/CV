@@ -1,6 +1,6 @@
 ## Your Name
 A 2020 University graduate now fully imersed in the world of software development through a 12-week bootcamp at Makers Academy. 
-. Then a sentence about what you've achieved. The tech industry excites me not only for the trailblazing technologies that play such a key role in our lives, but for the people behind them, the culture that comes with it, and the fundamental ethos of collaboration and passion that have driven the industry to where it is today.
+. Then a sentence about what you've achieved. The tech industry excites me not only for the trailblazing technologies that play such a key role in our lives, but for the people behind them, the culture that comes with it, and the fundamental ethos of collaboration and passion that has driven the industry to where it is today.
 
 ## Projects
 
