@@ -12,7 +12,7 @@ A 2020 University graduate now fully imersed in the world of software developmen
 ## Experience
 
 **MG Vintage** (December 2018 - July 2020)  
-Head of Supplier Cordination
+Head of Supplier Coordination
 
 - Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
 - Oversaw communication with suppliers both domestically and overseas. This venture provided me with experience working with a start-up consumer platform, negotiating wholesale prices, logistics and a strategic insight into UX, and handling payments over a variety of software platforms.
