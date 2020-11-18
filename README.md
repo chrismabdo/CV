@@ -11,7 +11,7 @@ A 2020 University graduate now fully imersed in the world of software developmen
 
 ## Experience
 
-**MG Vintage** (December 2018 - June 2020)  
+**MG Vintage** (December 2018 - July 2020)  
 Head of Supplier Cordination
 
 - Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
