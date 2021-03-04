@@ -49,7 +49,7 @@ Intern
 
 ## Education
 
-#### Makers Academy (November 2020 - February 2021)
+#### Makers Academy (October 2020 - February 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
