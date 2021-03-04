@@ -7,7 +7,7 @@ I have always been a process driven individual, leading me to possess strong pro
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Looking Glass**            | A simple program written with a focus on designing and constructing a set of basic tests from scratch. Achieved using a combination of pair programming and TDD. | Ruby-on-Rails, React.js, Rspec |
+| **Looking Glass**            | A website based around  | Ruby-on-Rails, React.js, Rspec |
 | **Acebook** | A directory able to store and load information through user input via an interactive menu. | Ruby-on-Rails, React.js, Rspec |
 | **MakersBnB** | | Ruby, Rspec |
 | **Notebook Application** | | Javascript (Vanilla), Jasmine |
