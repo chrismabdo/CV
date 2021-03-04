@@ -52,12 +52,13 @@ Intern
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, PostgreSQL
+- Rails, React.js
 - RSpec, Jasmine
 
 #### University of Bristol (September 2017 - June 2020)
 
-- Social Policy with Criminology
+- Social Policy with Criminology (BSc)
 - Upper Second Class Honours (2:1)
 - Awarded a First in my dissertation which focused on mitigating youth crime in the UK through the use of sports programs.
 
