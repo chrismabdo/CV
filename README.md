@@ -1,7 +1,7 @@
 ## Chris Abdo
 A 2020 University graduate now fully immersed in the world of software development after completing a 12-week bootcamp at Makers Academy. I am versed in Ruby and Javascript, and have worked on some brilliant team and individual projects using technologies such as Rails and React.js. I've also had exposure to databases, primarily using PostgreSQL and SQLite3. 
 
-The tech industry excites me not only for the trailblazing technologies that play such a key role in our lives, but a fascination to engage with a culture of collaboration and passion that has driven the industry to where it is today.
+The tech industry excites me not only for the trailblazing technologies that play such a key role in our lives, but rather a fascination to engage with a culture of collaboration and passion that has driven the industry to where it is today.
 
 ## Projects
 
