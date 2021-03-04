@@ -7,8 +7,10 @@ I have always been a process driven individual, leading me to possess strong pro
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Fizzbuzz**            | A simple program written with a focus on designing and constructing a set of basic tests from scratch. Achieved using a combination of pair programming and TDD. | Ruby |
-| **Student Directory** | A directory able to store and load information through user input via an interactive menu. | Ruby              |
+| **Looking Glass**            | A simple program written with a focus on designing and constructing a set of basic tests from scratch. Achieved using a combination of pair programming and TDD. | Ruby |
+| **Acebook** | A directory able to store and load information through user input via an interactive menu. | Ruby              |
+| **MakersBnB** | | |
+| **Notebook Application** | | |
 
 ## Experience
 
