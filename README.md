@@ -7,15 +7,14 @@ I have always been a process driven individual, leading me to possess strong pro
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Looking Glass**            | This website used to connect friends with each other, allowing users to create a list of film recommendations for their friends to view and pick from for their own watchlist. | Ruby-on-Rails, React.js, Rspec |
+| **Looking Glass**            | This website allows users to create a list of film recommendations and a future watchlist. Their choices contain all the information pertaining to each film by fetching from the TMDB API. Users also have the ability to check out their friend's recommendations and add anything they like to their own watchlist. | Ruby-on-Rails, React.js, Rspec |
 | **Acebook** | A social media clone that allows signed up users to write posts and view a news feed of existing posts with an ability to like and unlike as they wish. | Ruby-on-Rails, React.js, Rspec |
 | **MakersBnB** | This website allows users to list their properties for rent, as well as view properties to rent themselves based on available dates. | Ruby, Rspec |
 | **Notebook Application** | An application that allows users to record their thoughts throughout the day. Users have the ability to look back ast previous notes and update or delete where desired| Javascript (Vanilla), Jasmine |
 
 ## Experience
 
-**MG Vintage** (December 2018 - July 2020)  
-Head of Supplier Coordination
+**MG Vintage** (December 2018 - July 2020)  Head of Supplier Coordination
 
 - Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
 - Oversaw communication with suppliers both domestically and overseas. This venture provided me with experience working with a start-up consumer platform, negotiating wholesale prices, logistics and a strategic insight into UX, and handling payments over a variety of software platforms.
