@@ -10,7 +10,7 @@ I have always been a process driven individual, leading me to possess strong pro
 | **Looking Glass**            | This website allows users to create a list of film recommendations and a future watchlist. Their choices contain all the information pertaining to each film by fetching from the TMDB API. Users also have the ability to check out their friend's recommendations and add anything they like to their own watchlist. | Ruby-on-Rails, React.js, Rspec |
 | **Acebook** | A social media clone that allows signed up users to write posts and view a news feed of existing posts with an ability to like and unlike as they wish. | Ruby-on-Rails, React.js, Rspec |
 | **MakersBnB** | This website allows users to list their properties for rent, as well as view properties to rent themselves based on available dates. | Ruby, Rspec |
-| **Notebook Application** | An application that allows users to record their thoughts throughout the day. Users have the ability to look back ast previous notes and update or delete where desired| Javascript (Vanilla), Jasmine |
+| **Notebook Application** | An application that allows users to record their thoughts throughout the day. Users have the ability to look back at previous notes and update or delete where desired.| Javascript (Vanilla), Jasmine |
 
 ## Experience
 
