@@ -1,13 +1,16 @@
 ## Chris Abdo
-A 2020 University graduate now fully immersed in the world of software development after completing a 16-week bootcamp at Makers Academy. I am versed in Ruby and Javascript, and have worked on team and individual projects using technologies such as Rails and React.js. I also have gained experience in database management, primarily using PostgreSQL and SQLite3. 
-
-I have always been a process driven individual, leading me to possess strong project management skills. I view my projects as being composed of managable chunks, which I then break down into a series of small steps each systematically following from the last. This may have stemmed from when I was younger, where I would spend hours building puzzles and lego models. The tech industry excites me not only for the trailblazing products that play such a key role in our lives, but rather a fascination to engage with a culture of collaboration and passion that has driven the industry to where it is today.
+Graduate from Makers Academy looking to fulfil my passion for solving complex problems in a role in software engineering. My transition into software development enabled me to apply this passion towards designing and creating products with robust, resilient and test-driven code. Products that add value to the lives of consumers. In achieving this, I bring strong leadership, innovative and interpersonal skills developed from my past professional and volunteering experiences. I relish the challenge of learning new things and am now teaching myself Python through personal side projects, as well as carrying out the AWS Cloud Practitioners Course.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Looking Glass**            | This website allows users to create a list of film recommendations and a future watchlist. Their choices contain all the information pertaining to each film by fetching from the TMDB API. Users also have the ability to check out their friend's recommendations and add anything they like to their own watchlist. | Ruby-on-Rails, React.js, Rspec |
+| Name                         | What it does      | What I did        | Tech/Tools        |
+| ---------------------------- | ----------------- | ----------------- | ----------------- |
+| **Asset Manager**            |A management tool created for small and medium sized businesses to help accurately and seamlessly track the status of their incoming/outgoing assets.| Developed a feature that automatically scans and pulls asset data from a user’s CSV file, removing the need for customers to manually enter details when adding a new asset.| Django, React.js, PostgreSQL |
+
+
+| **Looking Glass**            | This website allows users to create a list of film recommendations and a future watchlist. Their choices contain all the information pertaining to each film by fetching from the TMDB API. Users also have the ability to check out their friend's recommendations and add anything they like to their own watchlist. | -	Responsible for creating the components that fetch and display data from the API.
+-	Created modal components for each film choice. These contained all the information pertaining to the film with the option to add to a user’s watchlist.
+-	Led the team in styling the web app. |Ruby-on-Rails, React.js, Rspec |
 | **Acebook** | A social media clone that allows signed up users to write posts and view a news feed of existing posts with an ability to like and unlike as they wish. | Ruby-on-Rails, React.js, Rspec |
 | **MakersBnB** | This website allows users to list their properties for rent, as well as view properties to rent themselves based on available dates. | Ruby, Rspec |
 | **Notebook Application** | An application that allows users to record their thoughts throughout the day. Users have the ability to look back at previous notes and update or delete where desired.| Javascript (Vanilla), Jasmine |
@@ -30,18 +33,20 @@ Intern
 
 #### Leadership
 
-- The ability to act as a responsive focal point for the delegation of roles and tasks, as well as for outreach and communication.
 - Bank of America Merrill Lynch Spring Insight Week: My team were tasked with researching and presenting the development of the Fintech sector over the past five years. Due to my interest in the industry, I put myself forward to lead the team. I delegated roles based on our individual strengths into analysis and creative teams. The result of this enabled us to give a highly informative presentation on the growth of the industry based on captivating research and a well-designed project.
+
+#### Adaptability
+
+- My ability to adapt was paramount in the delivery of a meal for the homeless community as part of the volunteer team at the Foodcycle Project. I had to shift between roles and tasks seamlessly in order to produce the end product for our client-base.
+
 
 #### Collaboration
 
-- Using simple yet effective communication skills to bolster collective strategies within a team towards an objective.
 - MG Vintage: Tasked with travelling to Italy to purchase stock for new members. This involved negotiating wholesale prices with foreign suppliers whilst establishing a constructive relationship for future deals. The application of effective communication throughout this process led to MG Vintage establishing a primary network of suppliers, allowing us to purchase products at extremely favourable rates.
 - Student-led Intramural Football Committee: Working with the teams and local businesses to set up sponsorship deals. Charity shops, barbers, cafes and more were given free advertising in exchange for student discounts.
 
 #### Attention to Detail
 
-- Designing and implementing a meticulous process for a particular task upon which they are executed. Following this process allows me to build greater consistency throughout a project and leaves less room for unforeseen errors.
 - Freepoint Commodities: I spent three weeks in back-end operations, using logging software such as CXL and EIPP to verify and backcheck trades on global markets. By following a process throughout the series of tasks, I was able to ensure confidence in my procedures before sending trades off for payment and delivery. Subsequently, my responsibilities grew to the construction of company-wide daily statistic sheets, displaying the daily net value of overall trades on each market.
 
 #### Perseverance
@@ -70,8 +75,16 @@ Intern
 - AS Levels: AAAB (Economics, Geography, Politics and Design and Technology)
 - IGCSEs: 10As (including Maths and English)
 
+## Volunteering
+
+**FoodCycle Charity** (August 2019 - Present) Volunteer Chef
+- Coordinated and adapted within an efficient logistical system to ensure timely delivery, storage and preparation of a fresh meal for the local homeless community.
+-	Highlighted my strong communication, processing/consultative and leadership skills in delegating responsibilities within a team in a fast-paced environment.
+
+**Endzone Ltd/Travellers Worldwide**  (June 2014 to June 2019) Coach
+- Strengthened my communication and project management skills whilst working on a range of school and volunteer sports programmes in both London and Rio de Janeiro with disabled and at-risk children
+-	Demonstrated initiative and innovation whilst designing incentive strategies for at-risks young people in the Santa Marta Favela, using sport to deter them from crime.
 ## Hobbies
 
-- I am a volunteer chef at a homeless shelter in Bristol as part of a Foodcycle project aimed at alleviating hunger whilst mitigating food waste.
 - I play competitive football in two local leagues on a weekly basis.
 - I challenge myself to take on new musical instruments, and work towards the goal of being able to collaborate with other musicians. Unfortunately, learning to play the drums over the past few years has not made me extremely popular with my neighbours.
