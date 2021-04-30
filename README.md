@@ -1,4 +1,4 @@
-## Chris Abdo
+## Christopher Abdo
 Graduate from Makers Academy looking to fulfil my passion for solving complex problems in a role in software engineering. My transition into software development enabled me to apply this passion towards designing and creating products with robust, resilient and test-driven code. Products that add value to the lives of consumers. In achieving this, I bring strong leadership, innovative and interpersonal skills developed from my past professional and volunteering experiences. I relish the challenge of learning new things and am now teaching myself Python through personal side projects, as well as carrying out the AWS Cloud Practitioners Course.
 
 ## Projects
