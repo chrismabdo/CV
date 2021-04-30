@@ -6,7 +6,7 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 | Name                         | What it does      | What I did        | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Asset Manager**            |A management tool created for small and medium sized businesses to help accurately and seamlessly track the status of their incoming/outgoing assets.| Developed a feature that automatically scans and pulls asset data from a user’s CSV file, removing the need for customers to manually enter details when adding a new asset.| Django, React.js, PostgreSQL |
-| **Looking Glass**            | Web app that allows users to create watchlists and film recommendations based on what their friends have picked for them.| -	Responsible for creating the components that fetch and display data from the API.-	Created modal components for each film choice. These contained all the information pertaining to the film with the option to add to a user’s watchlist.-	Led the team in styling the web app. |Ruby-on-Rails, React.js, Rspec |
+| **Looking Glass**            | Web app that allows users to create watchlists and film recommendations based on what their friends have picked for them.| -	Responsible for creating the components that fetch and display data from the API. -	Created modal components for each film choice. These contained all the information pertaining to the film with the option to add to a user’s watchlist. -	Led the team in styling the web app. |Ruby-on-Rails, React.js, Rspec |
 | **Acebook** | A social media clone that allows signed up users to write posts and view a news feed of existing posts with an ability to like and unlike as they wish. | Ruby-on-Rails, React.js, Rspec |
 | **MakersBnB** | This website allows users to list their properties for rent, as well as view properties to rent themselves based on available dates. | Ruby, Rspec |
 | **Notebook Application** | An application that allows users to record their thoughts throughout the day. Users have the ability to look back at previous notes and update or delete where desired.| Javascript (Vanilla), Jasmine |
@@ -30,11 +30,6 @@ Intern
 #### Leadership
 
 - Bank of America Merrill Lynch Spring Insight Week: My team were tasked with researching and presenting the development of the Fintech sector over the past five years. Due to my interest in the industry, I put myself forward to lead the team. I delegated roles based on our individual strengths into analysis and creative teams. The result of this enabled us to give a highly informative presentation on the growth of the industry based on captivating research and a well-designed project.
-
-#### Adaptability
-
-- My ability to adapt was paramount in the delivery of a meal for the homeless community as part of the volunteer team at the Foodcycle Project. I had to shift between roles and tasks seamlessly in order to produce the end product for our client-base.
-
 
 #### Collaboration
 
