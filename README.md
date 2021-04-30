@@ -6,8 +6,6 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 | Name                         | What it does      | What I did        | Tech/Tools        |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
 | **Asset Manager**            |A management tool created for small and medium sized businesses to help accurately and seamlessly track the status of their incoming/outgoing assets.| Developed a feature that automatically scans and pulls asset data from a user’s CSV file, removing the need for customers to manually enter details when adding a new asset.| Django, React.js, PostgreSQL |
-
-
 | **Looking Glass**            | This website allows users to create a list of film recommendations and a future watchlist. Their choices contain all the information pertaining to each film by fetching from the TMDB API. Users also have the ability to check out their friend's recommendations and add anything they like to their own watchlist. | -	Responsible for creating the components that fetch and display data from the API.
 -	Created modal components for each film choice. These contained all the information pertaining to the film with the option to add to a user’s watchlist.
 -	Led the team in styling the web app. |Ruby-on-Rails, React.js, Rspec |
