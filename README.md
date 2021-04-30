@@ -14,15 +14,18 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 
 **MG Vintage** (December 2018 - July 2020)  Head of Supplier Coordination
 
-- Student run start up platform offering an online vintage clothes service, allowing members to rent and swap out items as part of their subscription.
-- Oversaw communication with suppliers both domestically and overseas. This venture provided me with experience working with a start-up consumer platform, negotiating wholesale prices, logistics and a strategic insight into UX, and handling payments over a variety of software platforms.
+- Worked with a start-up consumer platform, negotiated wholesale prices, logistics and gave strategic and creative insight into UX and UI.
+- Led a team in establishing a primary network of suppliers in Italy, developing my leadership, interpersonal and problem-solving skills to negotiate products at extremely favourable rates which reduced our operating expenses by 80% in 2019.
 
-**Freepoint Commodities** (August 2019)  
-Intern
+**Freepoint Commodities** (August 2019)  Internship
 
-- Analysed commodity trading strategies used in tandem with indicator software such as ADX and parabolic SARs that had been developed for tracking price movements.
-- Gained experience in learning the basics of algorithmic trading by shadowing the algorithms trading desk aimed at developing trading strategies across oil, natural gas and metal markets.
-- Worked in back office processing areas. Tasked with calculations and back testing the payment flow using the systems CXL and EIPP from trade verification to payment release.
+- Applied effective self-learning techniques to complete internal training assessments in a range of topics including cash flows, financial concepts and trading strategies scoring > 85% across all 8 assessments.
+-	Used error mitigation/attention to detail to calculate and back test the payment flow using the systems CXL and EIPP from trade verification to payment release. Using an agile approach for this task meant my responsibilities grew to construct company-wide daily statistic spreadsheets.
+
+**Bank of America Merrill Lynch** (March 2015) Spring Insight Week
+
+- Worked in teams to analyse sources relating to real world economic and geopolitical challenges. Heavy emphasis on the development of my problem solving and communication skills throughout the process.
+-	Analysed the growth of the financial technology sector in the UK, adding specific insights into the emergence of third-party payments in this sector.
 
 ## Skills
 
