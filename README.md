@@ -14,8 +14,9 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 
 **MG Vintage** (December 2018 - July 2020)  Head of Supplier Coordination
 
-- Worked with a start-up consumer platform, negotiated wholesale prices, logistics and gave strategic and creative insight into UX and UI.
-- Led a team in establishing a primary network of suppliers in Italy, developing my leadership, interpersonal and problem-solving skills to negotiate products at extremely favourable rates which reduced our operating expenses by 80% in 2019.
+- Led wholesale price negotiations at a start-up consumer platform. 
+-	Coordinated a cross-functional team responsible for creating the company’s first web application. Provided my strategic and creative insight into member’s profile features and the app’s UI.
+-	Led a team in establishing a primary network of suppliers in Italy, developing my leadership, interpersonal and problem-solving skills to negotiate products at extremely favourable rates which reduced our operating expenses by 80% in 2019.
 
 **Freepoint Commodities** (August 2019)  Internship
 
