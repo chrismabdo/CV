@@ -30,6 +30,10 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 
 ## Skills
 
+#### Perseverance
+
+- Freddie's Flowers Salesman: Failing to sell any units in my first week as a door-to-door salesman, I chose to carefully analyse my performance with the help of feedback and support from my team. This led to me picking out two key areas of improvement: resilience and confidence. Consequently, took it upon myself to 'mock pitch' to members of my team until I felt that these targets had been met. Although the effects were not felt immediately, 6 weeks later I rewarded by management for being the top salesman in my team over a three-week period.
+
 #### Leadership
 
 - Bank of America Merrill Lynch Spring Insight Week: My team were tasked with researching and presenting the development of the Fintech sector over the past five years. Due to my interest in the industry, I put myself forward to lead the team. I delegated roles based on our individual strengths into analysis and creative teams. The result of this enabled us to give a highly informative presentation on the growth of the industry based on captivating research and a well-designed project.
@@ -42,10 +46,6 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 #### Attention to Detail
 
 - Freepoint Commodities: I spent three weeks in back-end operations, using logging software such as CXL and EIPP to verify and backcheck trades on global markets. By following a process throughout the series of tasks, I was able to ensure confidence in my procedures before sending trades off for payment and delivery. Subsequently, my responsibilities grew to the construction of company-wide daily statistic sheets, displaying the daily net value of overall trades on each market.
-
-#### Perseverance
-
-- Freddie's Flowers Salesman: Failing to sell any units in my first week as a door-to-door salesman, I chose to carefully analyse my performance with the help of feedback and support from my team. This led to me picking out two key areas of improvement: resilience and confidence. Consequently, took it upon myself to 'mock pitch' to members of my team until I felt that these targets had been met. Although the effects were not felt immediately, 6 weeks later I rewarded by management for being the top salesman in my team over a three-week period.
 
 ## Education
 
