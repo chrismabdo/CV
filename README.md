@@ -15,17 +15,17 @@ Graduate from Makers Academy looking to fulfil my passion for solving complex pr
 **MG Vintage** (December 2018 - July 2020)  Head of Supplier Coordination
 
 - Led wholesale price negotiations at a start-up consumer platform. 
--	Coordinated a cross-functional team responsible for creating the company’s first web application. Provided my strategic and creative insight into member’s profile features and the app’s UI.
+-	Coordinated a cross-functional team responsible for creating the company’s first web application. I was in charge of building wireframes for the app’s UI design, which I communicated to the developers.
 -	Led a team in establishing a primary network of suppliers in Italy, developing my leadership, interpersonal and problem-solving skills to negotiate products at extremely favourable rates which reduced our operating expenses by 80% in 2019.
 
 **Freepoint Commodities** (August 2019)  Internship
 
 - Applied effective self-learning techniques to complete internal training assessments in a range of topics including cash flows, financial concepts and trading strategies scoring > 85% across all 8 assessments.
--	Used error mitigation/attention to detail to calculate and back test the payment flow using the systems CXL and EIPP from trade verification to payment release. Using an agile approach for this task meant my responsibilities grew to construct company-wide daily statistic spreadsheets.
+®	Used error mitigation/attention to detail to back test the payment flow, learning new technologies such as CXL and EIPP. Using an agile approach for this task meant my responsibilities grew to construct company-wide daily statistic spreadsheets.
 
 **Bank of America Merrill Lynch** (March 2015) Spring Insight Week
 
-- Worked in teams to analyse sources relating to real world economic and geopolitical challenges. Heavy emphasis on the development of my problem solving and communication skills throughout the process.
+-	Developed strong problem solving and communication skills working in a project to analyse sources relating to real world economic and geopolitical challenges.
 -	Analysed the growth of the financial technology sector in the UK, adding specific insights into the emergence of third-party payments in this sector.
 
 ## Skills
